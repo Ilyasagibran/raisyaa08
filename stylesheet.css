@@ -1,0 +1,87 @@
+* {
+
+  box-sizing: border-box;
+
+}
+
+body {
+
+  font-family: "Candara";
+
+  
+
+  
+
+}
+
+li {
+
+  list-style: none;
+
+}
+
+.header {
+
+  background-color: #782fff;
+
+  color: rgb(5, 5, 5);
+
+  height: 90px;
+
+}  
+
+.header-logo {
+
+  float: left;
+
+  padding: 27px 27px;
+
+  font-size: 27px;
+
+  font-family: Segoe script;
+
+}
+
+.header-list li {
+
+  float:inline-start;
+
+  padding: 27px 27px;
+
+  font-size: 24px;
+
+  color:lavender
+
+}
+
+.container {
+
+  max-width: 2000px;
+
+  padding: 0 15px;
+
+  margin: 0 auto;
+
+  color:rgb(255, 255)
+
+}
+
+.top-wrapper {
+
+  padding: 300px 300px 0;
+
+  background-image: url(https://github.com/Ilyasagibran/raisyaa08/blob/main/tugas%20rai.jpeg?raw=true);
+
+  background-size: cover;
+
+  color: black;
+
+  text-align: center;
+  
+  width: 1000px;
+
+}
+
+.top-wrapper h1 {
+
+  opacity:…
